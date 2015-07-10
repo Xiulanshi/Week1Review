@@ -5,14 +5,31 @@
 ### Review Questions:
 
 - Which function is used to write output to the console?
+- NSLog
+- 
 - Which function is used to read input from the console?
+- scanf
+- 
 - Which keyword can we use to create a user-defined type?
+- struct
+- 
 - Which type of loop will first check if a condition is true and then contune to run as long as it remains true?
+- while loop
+- 
 - Which keyword is used to stop a loop from executing?
+- break
+- 
 - Which type of loop will continue to run until its termination condition is true?
+- for loop
+- 
 - Which keyword can we use to skip to the next iteration of a loop?
+- continue
+- 
 - Which data structure is used to stored elements of the same type?
+- array
+- 
 - What is the name of a user-defined type that can be defined using the primitive types?
+- NSArray
 
 
 ### Excercises:
